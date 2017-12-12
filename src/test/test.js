@@ -1,2 +1,2 @@
-const resultFunction = require('../easy/td-461');
-console.log(resultFunction(1, 10));
+const resultFunction = require('../easy/td-734');
+console.log(resultFunction(['great', 'test', 'test1'], ['great', 'a'], [['test1', 'a'],['test', '']]));

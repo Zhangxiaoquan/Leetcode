@@ -22,3 +22,4 @@ var hammingDistance = function(x, y) {
 };
 
 module.exports = hammingDistance;
+// export default hammingDistance;
